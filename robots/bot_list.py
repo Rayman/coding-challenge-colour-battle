@@ -16,8 +16,8 @@ id10plus_bot = importlib.import_module("robots.tim.id10+_bot").id10plus_bot
 ShortSpanDog = importlib.import_module("robots.felipe.short_span_dog").ShortSpanDog
 LearoundoDaVinci = importlib.import_module("robots.hein-leo.learoundo_da_vinci").LearoundoDaVinci
 RapidRothko = importlib.import_module("robots.jorik.rapid").RapidRothko
-Abra = importlib.import_module("robots.rayman.smarter_min").Abra
-Kadabra = importlib.import_module("robots.rayman.smarter_min").Kadabra
+Abra = importlib.import_module("robots.rayman.search_min").Abra
+Kadabra = importlib.import_module("robots.rayman.search_min").Kadabra
 Furbot = importlib.import_module("robots.furbot.furbot").FurBot
 LeonardoDaVidi = importlib.import_module("robots.bram.leonardo_da_vidi").LeonardoDaVidi
 
